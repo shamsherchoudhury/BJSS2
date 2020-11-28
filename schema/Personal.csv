@@ -1,0 +1,1 @@
+PartitionKey,RowKey,Timestamp,Active,Active@type,DOB,DOB@type,FirstName,FirstName@type,Gender,Gender@type,Hidden,Hidden@type,Surname,Surname@typeCandidate,1b74c4fd-c882-43db-9d39-408f6b445fea,2020-11-10T21:39:46.145Z,false,Edm.Boolean,1900-01-01T00:00:00.000Z,Edm.DateTime,,Edm.String,,Edm.String,true,Edm.Boolean,,Edm.String
